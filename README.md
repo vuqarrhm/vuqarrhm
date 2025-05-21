@@ -7,7 +7,7 @@ Həmçinin Jetpack Compose, MVVM arxitekturası və modern Android texnologiyala
 
 ## 🚀 Bacarıqlarım
 
-- 📱 Android App Development (Kotlin, Java)  
+- 📱 Android App Development (Kotlin)  
 - 🧱 Jetpack Compose, MVVM, LiveData, Room  
 - 🔌 REST API, Retrofit, Coroutines  
 - 🛠 Git & GitHub  
@@ -19,8 +19,8 @@ Həmçinin Jetpack Compose, MVVM arxitekturası və modern Android texnologiyala
 
 | Layihə | Açıqlama | Link |
 |--------|----------|------|
-| 📽️ **FilmApp** | Sadə Android film tətbiqi | [github.com/vuqarrhm/FilmApp](https://github.com/vuqarrhm/FilmApp) |
-| ☀️ **WeatherApp** | Hava proqnozu tətbiqi | [github.com/vuqarrhm/WeatherApp](https://github.com/vuqarrhm/WeatherApp) |
+| 📽️ **MovaApp** | Sadə Android film tətbiqi | [https://github.com/vuqarrhm/MovaApp](https://github.com/vuqarrhm/MovaApp) |
+| ☀️ **Lafyuu** | E-commerce tətbiqi | [https://github.com/vuqarrhm/myapp](https://github.com/vuqarrhm/myapp) |
 
 ---
 

@@ -1,11 +1,11 @@
 # 👋 Salam! Mən Vuqar
 
-Mən Android inkişaf etdiricisiyəm və Kotlin dilini sevərək istifadə edirəm.  
-Həmçinin Jetpack Compose, MVVM arxitekturası və modern Android texnologiyaları ilə işləyirəm.
+I'm an Android developer with a passion for Kotlin.
+I work with Jetpack Compose, MVVM architecture, and modern Android technologies.
 
 ---
 
-## 🚀 Bacarıqlarım
+## 🚀 Skills
 
 - 📱 Android App Development (Kotlin)  
 - 🧱 Jetpack Compose, MVVM, LiveData, Room  
@@ -23,20 +23,20 @@ Həmçinin Jetpack Compose, MVVM arxitekturası və modern Android texnologiyala
 
 ---
 
-## 📂 Son Layihələrim
+## 📂  Featured Projects
 
-| Layihə | Açıqlama | Link |
+| Project | Description | Link |
 |--------|----------|------|
-| 📽️ **MovaApp** | Sadə Android film tətbiqi | [https://github.com/vuqarrhm/MovaApp](https://github.com/vuqarrhm/MovaApp) |
-| 🛒 **Lafyuu** | E-commerce tətbiqi | [https://github.com/vuqarrhm/myapp](https://github.com/vuqarrhm/myapp) |
+| 📽️ **MovaApp** | A simple Android movie appi | [https://github.com/vuqarrhm/MovaApp](https://github.com/vuqarrhm/MovaApp) |
+| 🛒 **Lafyuu** | An e-commerce application | [https://github.com/vuqarrhm/myapp](https://github.com/vuqarrhm/myapp) |
 
 ---
 
-## 📫 Mənimlə Əlaqə
+## 📫  Contact Me
 
 - ✉️ Email: vuqarrhm@gmail.com  
 - 🔗 LinkedIn: [https://www.linkedin.com/in/vuqar-rehimli-99840632a/](https://www.linkedin.com/in/vuqar-rehimli-99840632a/)
 
 ---
 
-_🚀 Yeni texnologiyalara açıq və real problemləri həll edən tətbiqlər yaratmaqdan zövq alıram._ 
+_🚀 I’m open to new technologies and enjoy building apps that solve real-world problems._ 

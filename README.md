@@ -27,7 +27,7 @@ Həmçinin Jetpack Compose, MVVM arxitekturası və modern Android texnologiyala
 ## 📫 Mənimlə Əlaqə
 
 - ✉️ Email: vuqarrhm@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/vuqar-rehimli](https://www.linkedin.com/in/vuqar-rehimli)
+- 🔗 LinkedIn: [https://www.linkedin.com/in/vuqar-rehimli-99840632a/](https://www.linkedin.com/in/vuqar-rehimli-99840632a/)
 
 ---
 

@@ -1,4 +1,4 @@
-# 👋 Salam! Mən Vuqar
+# 👋  Hello! I'm Vuqar
 
 I'm an Android developer with a passion for Kotlin.
 I work with Jetpack Compose, MVVM architecture, and modern Android technologies.

@@ -1,34 +1,30 @@
-# 👋 Salam! Mən Vuqar
+👋 Hello! I'm Vuqar
+I'm an Android developer with a passion for Kotlin.
+I work with Jetpack Compose, MVVM architecture, and modern Android technologies.
 
-Mən Android inkişaf etdiricisiyəm və Kotlin dilini sevərək istifadə edirəm.  
-Həmçinin Jetpack Compose, MVVM arxitekturası və modern Android texnologiyaları ilə işləyirəm.
+🚀 Skills
+📱 Android App Development (Kotlin)
+🧱 Jetpack Compose, MVVM, LiveData, Room
+🔌 REST API, Retrofit, Coroutines
+🛠 Git & GitHub
+🎨 Material Design 3
+🧩 Hilt for Dependency Injection
+🧭 Navigation Component
+🛠 Android Jetpack
+🔐 Firebase Authentication
+🖼 Picasso
+🔘 DotsIndicator
+⚙️ SharedPreferences
+🌐 Local & Remote Repositories
 
----
+📂 Featured Projects
+Project	Description	Link
+📽️ MovaApp	A simple Android movie app	https://github.com/vuqarrhm/MovaApp
+🛒 Lafyuu	An e-commerce application	https://github.com/vuqarrhm/myapp
 
-## 🚀 Bacarıqlarım
+📫 Contact Me
+✉️ Email: vuqarrhm@gmail.com
 
-- 📱 Android App Development (Kotlin)  
-- 🧱 Jetpack Compose, MVVM, LiveData, Room  
-- 🔌 REST API, Retrofit, Coroutines  
-- 🛠 Git & GitHub  
-- 🐛 Open Source töhfələr verməkdən zövq alıram
+🔗 LinkedIn: https://www.linkedin.com/in/vuqar-rehimli-99840632a/
 
----
-
-## 📂 Son Layihələrim
-
-| Layihə | Açıqlama | Link |
-|--------|----------|------|
-| 📽️ **MovaApp** | Sadə Android film tətbiqi | [https://github.com/vuqarrhm/MovaApp](https://github.com/vuqarrhm/MovaApp) |
-| ☀️ **Lafyuu** | E-commerce tətbiqi | [https://github.com/vuqarrhm/myapp](https://github.com/vuqarrhm/myapp) |
-
----
-
-## 📫 Mənimlə Əlaqə
-
-- ✉️ Email: vuqarrhm@gmail.com  
-- 🔗 LinkedIn: [https://www.linkedin.com/in/vuqar-rehimli-99840632a/](https://www.linkedin.com/in/vuqar-rehimli-99840632a/)
-
----
-
-_💡 Technology enthusiast və daim öyrənməyə açığam!_
+🚀 I’m open to new technologies and enjoy building apps that solve real-world problems.
